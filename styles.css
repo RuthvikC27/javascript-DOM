@@ -1,0 +1,23 @@
+body{
+    margin: none;
+    padding: none;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+#wrapper{
+    position: relative;
+    height: 100px;
+    width: 100%;
+    background-color: yellow;
+}
+
+#animator{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    top: 0px;
+    left: 0px;
+}
